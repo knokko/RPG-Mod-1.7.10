@@ -1,0 +1,21 @@
+entity.LifeEye.name=Levens Oog
+entity.IceEye.name=Ijs Oog
+entity.FireEye.name=Vuur Oog
+entity.Troll.name=Trol
+entity.Monkey.name=Aap
+
+entity.EyeGroupData.name=Oog Data
+entity.MonkeyGroupData.name=Aap Data
+entity.FireDragon.name=Vuurdraak
+entity.LavaShark.name=LavaHaai
+
+item.testitem.name=test voorwerp
+item.woodwand.name=houten staf
+item.bananasword.name=bananen zwaard
+item.skullrod.name=schedel staf
+item.ruby.name=robijn
+item.rubysword.name=robijnen zwaard
+
+tile.rubyore.name=robijn erts
+tile.voidportal.name=Void Portaal
+tile.table.name=Tafel

@@ -1,0 +1,28 @@
+entity.LifeEye.name=Life Eye
+entity.IceEye.name=Ice Eye
+entity.FireEye.name=Fire Eye
+entity.Troll.name=Troll
+entity.Empire.name=Empire
+entity.Monkey.name=Monkey
+
+entity.Chow.name=Chow
+entity.DreadLord.name=DreadLord
+
+entity.EyeGroupData.name=Eye Data
+entity.MonkeyGroupData.name=Monkey Data
+entity.FireDragon.name=Fire Dragon
+entity.LavaShark.name=LavaShark
+
+item.testitem.name=Test Item
+item.woodwand.name=Wooden Wand
+item.bananasword.name=Banana Sword
+item.skullrod.name=Skull Rod
+item.ruby.name=Ruby
+item.rubysword.name=Ruby Sword
+
+tile.basalt.name=Basalt
+tile.rubyore.name=Ruby Ore
+tile.voidportal.name=Void Portal
+tile.table.name=Table
+
+death.attack.laser=lasered

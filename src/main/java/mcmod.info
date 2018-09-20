@@ -1,0 +1,16 @@
+[
+{
+  "modid": "knokkoRPG",
+  "name": "Knokko RPG",
+  "description": "Not finished mod.",
+  "version": "${0.0.0}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "You do not need this.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
